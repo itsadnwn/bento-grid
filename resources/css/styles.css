@@ -362,7 +362,7 @@ body {
         display: flex;
         height: 100vh;
         align-items: center;
-        max-width: 1440px;
+        max-width: 1200px;
     }
 
     .grid-container {
