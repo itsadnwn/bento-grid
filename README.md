@@ -33,7 +33,7 @@
 </div>
 
 <div>
-  <h3>⭐ Imagine Optimization with <code>object-fit</code></h3>
+  <h3>⭐ Image Optimization with <code>object-fit</code></h3>
   <p>Through implementing <code>object-fit: contain;</code>, I was able to maintain the aspect ratio of images while ensuring they fit their allocated space. The choice of <code>contain</code> over <code>cover</code> was deliberate, as I wanted to prioritize the complete visibility of image content over filling the entire container space.</p>
 </div>
 
